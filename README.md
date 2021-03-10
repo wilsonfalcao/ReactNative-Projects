@@ -19,6 +19,8 @@ Click no link abaixo para navegar em cada projeto desse repositório
 
     * Referência de desenvolvimento [FaceDetector](https://docs.expo.io/versions/latest/sdk/facedetector/).
 
-* [Consumindo API]()
+* [Consumindo API](https://github.com/wilsonfalcao/ReactNative-Projects/tree/main/ReactNative%20-%20Consumindo%20Web%20Service)
+    
+    * Referência para uso Fetch [Documentação](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 * [EXPO Face Dector]()
