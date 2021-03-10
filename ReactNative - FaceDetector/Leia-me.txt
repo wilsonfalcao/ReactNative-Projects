@@ -1,0 +1,7 @@
+Projeto desenvolvido por Wilson Falcão
+E-mail: wilson.falcao1@hotmail.com
+
+
+*** Para execução do projeto instalar todos os modulos e frameworks necessários...
+
+- npm install
