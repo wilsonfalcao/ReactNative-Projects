@@ -7,6 +7,10 @@ Todos os projetos desenvolvidos em React Native para instrução e modelo técni
 Cada pasta (nomeado com um tipo de finalidade) possui arquivos em .txt que explica a peculiaridade da execução de cada 
 modelo/projeto. Verificar cada instrução.
 
+### EXPO FRAMEWORK
+
+Alguns dos projetos foram desenvolvidos juntos com o framework EXPO. Para utiliza-lo basta seguir os procedimentos nesse [link](https://docs.expo.io/get-started/installation/)
+
 ### Raiz de Navegação
 
 Click no link abaixo para navegar em cada projeto desse repositório
