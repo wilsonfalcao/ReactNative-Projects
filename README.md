@@ -13,7 +13,7 @@ Click no link abaixo para navegar em cada projeto desse repositório
 
 * [EXPO usando FaceDector e Mascara](https://github.com/wilsonfalcao/ReactNative-Projects/tree/main/ReactNative%20-%20Usando%20Mascara%20no%20FaceDetector)
 
-Referencia de desenvolvimento [FaceDetector](https://docs.expo.io/versions/latest/sdk/facedetector/).
+    * Referencia de desenvolvimento [FaceDetector](https://docs.expo.io/versions/latest/sdk/facedetector/).
 
 * [Consumindo API]()
 
