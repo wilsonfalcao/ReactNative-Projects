@@ -11,4 +11,8 @@ modelo/projeto. Verificar cada as instruções cada um antes de clonar o projeto
 
 Click no link abaixo para navegar em cada projeto desse repositório
 
-* [Projeto em EXPO usando Face Dector e Mascara](https://github.com/wilsonfalcao/ReactNative-Projects/tree/main/ReactNative%20-%20Usando%20Mascara%20no%20FaceDetector)
+* [EXPO usando Face Dector e Mascara](https://github.com/wilsonfalcao/ReactNative-Projects/tree/main/ReactNative%20-%20Usando%20Mascara%20no%20FaceDetector)
+
+* [Consumindo API]()
+
+* [EXPO Face Dector]()
