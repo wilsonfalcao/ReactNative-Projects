@@ -1,8 +1,8 @@
-# Todos os projetos em Reacct Native
+# Todos os projetos em React Native
 
 Todos os projetos desenvolvidos em React Native para instrução e modelo técnico de desenvolvimento
 
-### Manual de uso
+### Manual de execução
 
 Cada pasta (nomeado com um tipo de finalidade) possui arquivos em .txt que explica a peculiaridade da execução de cada 
 modelo/projeto. Verificar cada instrução.
